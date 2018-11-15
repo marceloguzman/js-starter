@@ -1,0 +1,14 @@
+{
+  "name": "js-starter",
+  "version": "1.0.0",
+  "description": "boilerplate app to practice js with a live server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marceloguzman.com",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
+}
